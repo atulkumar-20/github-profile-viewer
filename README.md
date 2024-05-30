@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-05-30 085223](https://github.com/atulkumar-20/github-profile-viewer/assets/170754927/424683e8-6cd7-4791-9da3-d14ba3803e41)
 
+live link:-  https://atulkumar-20.github.io/github-profile-viewer/
+
 Description:-
 
 -->A web application that allows users to view GitHub profiles by entering a GitHub username. 
